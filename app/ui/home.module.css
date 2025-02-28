@@ -1,0 +1,25 @@
+.shape {
+  height: 0;
+  width: 0;
+  border-bottom: 30px solid black;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+}
+.btn {
+  background-color: red;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+.top {
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
